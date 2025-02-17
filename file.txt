@@ -1,1 +1,2 @@
 This is the file created in the new branch
+This is updated file for new_branch
